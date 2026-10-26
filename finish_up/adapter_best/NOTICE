@@ -1,0 +1,2 @@
+Artemis-7B is a modified derivative of Qwen2.5-7B-Instruct (Copyright 2024 Alibaba Cloud), licensed under the Apache License 2.0 (see LICENSE).
+Changes by Cutline Industries LLC, October 2026: QLoRA fine-tuning (LoRA r=32) on Artemis identity, governance, documentation and tool-format examples plus databricks-dolly-15k (CC-BY-SA-3.0) samples; default chat-template system prompt and model name changed to Artemis; adapter merged into the bf16 weights.
